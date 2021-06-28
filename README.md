@@ -10,4 +10,4 @@ Run with:
 python3 main.py
 ```
 
-<img src="https://raw.githubusercontent.com/michael-pena/pyPong/master/pong-ss.png"  width=350>
+<img src="https://raw.githubusercontent.com/michael-pena/Video-Game-Quiz-App/master/quizz-ss.png"  width=350>
